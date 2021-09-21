@@ -18,5 +18,7 @@
 "MailTempPassword":"",
 "ToMailID":"ashwin.kaleeswaran@e5.ai",
 "MailSubject":"Process Successfully Completed",
+"MailBody":"Test",
+"MailErrorSubject":"Process Execution Failed",
 "MailBody":"Test"
 }
